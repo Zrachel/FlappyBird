@@ -1,8 +1,7 @@
 # FlappyBird
 simplest flappy bird(based on objective-c)
 
-HI 爽哥，
-有几个问题解决不了啊。。。求指导；
+暂时，还有几个问题解决不了：
 
 1. 现在的label/button/imview...都是固定大小，即使我在storyboard里居了中，放到iPhone simulator上还是truncated的，有没有一种方法能让这些控件大小自适应？
 
